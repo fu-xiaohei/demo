@@ -5,5 +5,6 @@ public class BaseController {
         System.out.println("left");
         System.out.println("right");
         System.out.println("left2222");
+        System.out.println("right2");
     }
 }
